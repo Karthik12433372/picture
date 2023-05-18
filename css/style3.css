@@ -1,0 +1,103 @@
+.heading{
+    color:red;
+    text-align: center;
+    background-color:rgb(255, 196, 0);
+    margin: 10px 450px 10px 450px;
+    border: 2px solid green;
+    border-radius: 50px;
+}
+.heading1{
+    margin:30px 10px 10px 10px;
+    border: 2px dotted violet;
+    padding: 20px;
+    border-radius: 50px;
+}
+.heading h1{
+    color: rgb(226, 43, 156);
+    
+}
+.heading-1 h1{
+   text-decoration: underline;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+   color: rgb(255, 71, 209);
+}
+.heading-1 p{
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 35px;
+    word-spacing: 8px;
+
+}
+a{
+    color: white;
+    background-color: #333;
+    padding: 10px;
+    text-decoration: none;
+}
+h1{
+    color:green;
+    text-decoration: underline;
+}
+a:hover{
+    background-color: red;
+}
+.heading-2{
+    border: 2px dotted red;
+    margin: 30px 10px 10px 10px;
+    padding: 20px;
+    border-radius: 50px;
+
+}
+.heading-2 h1{
+    color: green;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    
+}
+.heading-2 p{
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 35px;
+    word-spacing: 8px;
+}
+.block1{
+    width:31.50%;
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(196, 228, 255);
+}
+p{
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 35px;
+    word-spacing: 8px;
+}
+h2{
+    text-align: center;
+
+}
+.block2{
+    width:31%;
+    border: 2px solid blue;
+    margin: -751px;
+    padding: 10px;
+    margin-left: 34%;
+    background-color:dimgrey;
+    
+}
+
+.blocks{
+    display:inline;
+}
+.block3{
+    width:31%;
+    border: 2px solid blue;
+    margin:10px; 
+    padding: 10px;
+    float:right;
+    background-color: bisque;
+}
+
